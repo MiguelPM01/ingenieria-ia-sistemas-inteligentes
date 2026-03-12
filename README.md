@@ -16,7 +16,7 @@ Aproximadamente 3 meses de formación.
 - Ciberseguridad.
 
 ## Estructura del Respositorio
-ingenieria-ia-sistemas-inteligentes/
+
 <img width="301" height="642" alt="image" src="https://github.com/user-attachments/assets/ce26c887-c841-46d5-8377-33495bbf97e1" />
 
     
