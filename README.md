@@ -1,11 +1,11 @@
 #  Ingeniería de IA y Sistemas Inteligentes
-Dentro de este repositorio encontraremos la ruta que seguiré para formarme de manera práctica en programación, IA, Linux, agentes, IoT, ciberseguridad y automatización de sistemas inteligentes.
+En este repositorio se documenta mi ruta de formación práctica en programación, IoT, IA, Linux, Agentes, Ciberseguridad y Automatización de sistemas físicos inteligentes. 
 
 ## Objetivo
-Lograr aprender de manera sólida programación, Linux, protocolos de comunicación con IoT, IA, ciberseguridad, automatización de sistemas inteligentes y documentación utilizando la IA a mi favor como agente.
+Desarrollar de manera sólida mi perfil como Ingeniero de Software y Automatización para diseñar e implementar sistemas inteligentes que sean asistidos por IA.
 
 ## Duración
-Aproximadamente 3 meses de formación.
+12 semanas desglozado a 6 horas por semana.
 
 ## Áreas de estudio
 - Fundamentos de programación.
@@ -17,9 +17,40 @@ Aproximadamente 3 meses de formación.
 
 ## Estructura del Respositorio
 
-<img width="301" height="642" alt="image" src="https://github.com/user-attachments/assets/ce26c887-c841-46d5-8377-33495bbf97e1" />
+```text
+ingenieria-ia-sistemas-inteligentes/
+│
+├── README.md
+├── ROADMAP.md
+├── PROGRESO.md
+├── RECURSOS.md
+├── .gitignore
+│
+├── 01-fundamentos-programacion/
+├── 02-linux-git-terminal/
+├── 03-logica-estructuras-algoritmos/
+├── 04-node-typescript/
+├── 05-python-bases/
+├── 06-cursor-opencode/
+├── 07-agentes-ia/
+├── 08-apis-backend/
+├── 09-mqtt-iot/
+├── 10-raspberry-node-red/
+├── 11-hardware-integracion/
+├── 12-ciberseguridad/
+├── 13-proyecto-final/
+│
+├── diarios/
+│   ├── semana-01.md
+│   ├── semana-02.md
+│   └── ...
+│
+└── assets/
+    ├── diagramas/
+    ├── imagenes/
+    └── notas/
+```
 
-    
 ## Proyecto final
 Construir un MVP documentado, el proyecto llevará el nombre de Sistema inteligente de control de iluminación y zonas físicas asistido por IA.
 
