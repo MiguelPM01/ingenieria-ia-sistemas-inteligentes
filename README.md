@@ -17,36 +17,9 @@ Aproximadamente 3 meses de formación.
 
 ## Estructura del Respositorio
 ingenieria-ia-sistemas-inteligentes/
-│
-├── README.md
-├── ROADMAP.md
-├── PROGRESO.md
-├── RECURSOS.md
-├── .gitignore
-│
-├── 01-fundamentos-programacion/
-├── 02-linux-git-terminal/
-├── 03-logica-estructuras-algoritmos/
-├── 04-node-typescript/
-├── 05-python-bases/
-├── 06-cursor-opencode/
-├── 07-agentes-ia/
-├── 08-apis-backend/
-├── 09-mqtt-iot/
-├── 10-raspberry-node-red/
-├── 11-hardware-integracion/
-├── 12-ciberseguridad/
-├── 13-proyecto-final/
-│
-├── diarios/
-│   ├── semana-01.md
-│   ├── semana-02.md
-│   └── ...
-│
-└── assets/
-    ├── diagramas/
-    ├── imagenes/
-    └── notas/
+<img width="301" height="642" alt="image" src="https://github.com/user-attachments/assets/ce26c887-c841-46d5-8377-33495bbf97e1" />
+
+    
 ## Proyecto final
 Construir un MVP documentado, el proyecto llevará el nombre de Sistema inteligente de control de iluminación y zonas físicas asistido por IA.
 
