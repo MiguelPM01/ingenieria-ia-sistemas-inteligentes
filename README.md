@@ -15,7 +15,7 @@ Desarrollar de manera sólida mi perfil como Ingeniero de Software y Automatizac
 - IoT + sistemas físicos.
 - Ciberseguridad.
 
-## Respositorio
+## Repositorio
 
 ```text
 ingenieria-ia-sistemas-inteligentes/
