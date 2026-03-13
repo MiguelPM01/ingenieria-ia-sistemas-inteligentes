@@ -250,8 +250,8 @@ Formarme con bases sólidas en programación, Linux, IA, Agentes, IoT, cibersegu
     ---
 
 ## Semana 12 — Proyecto final integrador
-### Objetivo
-Construir un sistema completo y documentado.
+### Objetivo: Construir un sistema completo y documentado.
+
 
 ### Temas
 - Integración final
