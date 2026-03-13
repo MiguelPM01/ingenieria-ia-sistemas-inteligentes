@@ -246,6 +246,30 @@ Formarme con bases sólidas en programación, Linux, IA, Agentes, IoT, cibersegu
   ### Entregable
   - Checklist de seguridad.
   - Documento de riesgos y mitigaciones.
+ 
+    ---
+
+## Semana 12 — Proyecto final integrador
+### Objetivo
+Construir un sistema completo y documentado.
+
+### Temas
+- Integración final
+- Pruebas
+- Documentación
+- Arquitectura
+- Demo
+
+### Práctica
+- Desarrollo del proyecto final
+
+### Entregable
+- Proyecto funcional
+- README técnico
+- Diagrama
+- Demo
+- Conclusiones
+    
 
   
 
