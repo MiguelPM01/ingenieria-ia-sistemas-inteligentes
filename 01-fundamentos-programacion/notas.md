@@ -29,6 +29,6 @@ Son los tipos de datos que recibe el programa para poder realizar un proceso y d
 Es lo que el programa realiza con los datos que le dimos en la entrada del programa, por ejemplo, hacer una suma de dos numeros o una división.
 ---
 
-### Salida
+## Salida
 Es el resultado final, es lo que nos entrega al darle la entrada y se procesen los datos.
 ---
