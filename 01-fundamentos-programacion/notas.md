@@ -23,12 +23,15 @@ Es un bloque de código dentro del programa que hace una tarea en especifico y t
 
 ## Entrada
 Son los tipos de datos que recibe el programa para poder realizar un proceso y darnos una respuesta o salida.
+
 ---
 
 ## Proceso
 Es lo que el programa realiza con los datos que le dimos en la entrada del programa, por ejemplo, hacer una suma de dos numeros o una división.
+
 ---
 
 ## Salida
 Es el resultado final, es lo que nos entrega al darle la entrada y se procesen los datos.
+
 ---
