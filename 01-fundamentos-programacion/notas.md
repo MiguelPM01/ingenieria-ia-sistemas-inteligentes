@@ -35,3 +35,25 @@ Es lo que el programa realiza con los datos que le dimos en la entrada del progr
 Es el resultado final, es lo que nos entrega al darle la entrada y se procesen los datos.
 
 ---
+
+## Diferencia entre imprimir y retornar
+Imprimir muestra algo en pantalla, pero no lo guarda ni lo devuelve para poder utilizarlo después, en cambio, retornar, entrega un valor a la función que lo llamó, permitiendo reutilizarlo en cálculos u operaciones posteriores.
+
+---
+
+## ¿Por qué una función debe recibir lo que necesita?
+
+Deben recibir lo que necesitan para ser independientes, reutilizables y más fáciles de mantener.
+
+---
+
+## ¿Por qué prompt devuelve texto?
+
+Porque está diseñado para recibir entrada del usuario como cadena de caracteres (string).
+
+--- 
+
+## ¿Por qué a veces hay que convertir con Number(...)?
+
+Porque su conversión es necesaria cuando quieres tratar ese texto como número y realizar operaciones matemáticas, evitando que se concatene como cadena.
+
