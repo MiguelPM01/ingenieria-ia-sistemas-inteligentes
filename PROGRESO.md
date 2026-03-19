@@ -1,7 +1,5 @@
 # Progreso a lo largo de la formación
 
----
-
 ## Semana 1 - Fundamentos de programación I
 ### Completado
 - Variables.
