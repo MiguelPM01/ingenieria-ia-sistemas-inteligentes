@@ -12,7 +12,7 @@ Es una manera de clasificar valores que se pueden almacenar en una variable, no 
 ---
 
 ## Condición
-Es algo que le permite al programa decidir que hacer si se cumple un parámetro o si no se cumple un parámetro. Por ejemplo "Si número es mayor que 10, entonces, numero es mayor que 10".
+Es algo que le permite al programa decidir que hacer si se cumple un parámetro o si no se cumple un parámetro. Por ejemplo "Si el número es mayor que 10, el programa muestra un mensaje; si no, muestra otro.".
 
 ---
 
@@ -22,7 +22,7 @@ Es un bloque de código dentro del programa que hace una tarea en especifico y t
 ---
 
 ## Entrada
-Son los tipos de datos que recibe el programa para poder realizar un proceso y darnos una respuesta o salida.
+Son los datos que recibe el programa.
 
 ---
 
