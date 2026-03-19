@@ -2,7 +2,7 @@
 ---
 
 ## Variable
-Es un lugar o espacio donde podemos guardar un dato para poder usarlo despues, puede ser tu nombre, un número o booleano.
+Guarda un valor, ese valor puede ser texto, número o booleano.
 
 ---
 
@@ -32,7 +32,7 @@ Es lo que el programa realiza con los datos que le dimos en la entrada del progr
 ---
 
 ## Salida
-Es el resultado final, es lo que nos entrega al darle la entrada y se procesen los datos.
+Es el resultado final que el programa entrega después de procesar la entrada
 
 ---
 
