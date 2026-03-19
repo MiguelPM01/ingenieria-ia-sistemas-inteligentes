@@ -2,16 +2,19 @@
 
 ### Tareas realizadas
 - Creación de repositorio.
-- Creación de primera carpeta
+- Creación de primera carpeta.
+- Carpetas creadas en base al diagrama de arquitectura del proyecto.
+- Ejercicios básicos de programación con variables.
+- Programas pequeños de entrada, proceso y salida.
+- Ejercicios con condicionales.
+- Ejercicios de Funciones.
+- Conversión de tipos.
+
 
 ---
 
 ### Tareas pendientes
 
-- Carpetas creadas en base al diagrama de arquitectura del proyecto
-- Ejercicios básicos de programación.
-- Programas pequeños de entrada, proceso y salida.
-- Ejercicios con listas y ciclos.
 - Mini retos de lógica.
 - Navegación por terminal
 - Crear commits ordenados.
