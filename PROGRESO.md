@@ -15,6 +15,7 @@
 
 ### Tareas pendientes
 
+- Ejercicios con listas y ciclos.
 - Mini retos de lógica.
 - Navegación por terminal
 - Crear commits ordenados.
