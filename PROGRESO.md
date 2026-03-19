@@ -1,20 +1,32 @@
-## Progreso a lo largo de la formación 
+## Semana 1 - Fundamentos de programación I
+### Completado
+- Variables.
+- Tipos de datos.
+- Entrada, proceso y salida.
+- Condicionales.
+- Funciones.
+- Diferencia entre imprimir y retornar.
+- Entrada del usuario con prompt-sync.
+- Conversión con Number(...).
 
-### Tareas realizadas
-- Creación de repositorio.
-- Creación de primera carpeta.
-- Carpetas creadas en base al diagrama de arquitectura del proyecto.
-- Ejercicios básicos de programación con variables.
-- Programas pequeños de entrada, proceso y salida.
-- Ejercicios con condicionales.
-- Ejercicios de Funciones.
-- Conversión de tipos.
-
-
----
+### Evidencia
+- 01-variables.js
+- 02-suma.js
+- 03-condicional.js
+- 04-funcion.js
+- 05-funcion-suma.js
+- 06-es-par.js
+- 07-mayor-de-edad.js
+- 08-entrada-usuario.js
+- 09-suma-usuario.js
+- 10-mayor-menor-usuario.js
+- 11-funcion-mayor-edad-usuario.js
+- 12-clasificador-edad.js
+- 13-calculadora-basica.js
 
 ### Tareas pendientes
-
+- Operadores lógicos.
+- Validación de entradas.
 - Ejercicios con listas y ciclos.
 - Mini retos de lógica.
 - Navegación por terminal
