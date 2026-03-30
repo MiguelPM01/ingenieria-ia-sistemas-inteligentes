@@ -84,7 +84,7 @@ Formarme con bases sólidas en programación, Linux, IA, Agentes, IoT, cibersegu
 
 ---
 
-## Semana 4 - Prograación competente con JavaScript/TypeScript
+## Semana 4 - Programación competente con JavaScript/TypeScript
 
 ### Objetivo: Escribir código más limpio y estructurado.
 
