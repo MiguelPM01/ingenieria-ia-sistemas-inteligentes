@@ -14,4 +14,4 @@ const filtrarPalabrasLargas = (palabras, min) => {
  return palabrasLargas;
 }
 
-console.log(filtrarPalabrasLargas(['sol', 'computadora', 'mesa', 'progamación'], 5));
+console.log(filtrarPalabrasLargas(['sol', 'computadora', 'mesa', 'programación'], 5));
